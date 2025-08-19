@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 I am Nick, a Software Engineering graduate at [ALX Africa](https://www.alxafrica.com/software-engineering-2022/)
 
 - 😄 Pronouns: He/him
-- 🔭 I’m currently working on: [Video-Platform-MERN](https://github.com/n1klaus/Video-Platform-MERN)
+<!-- - 🔭 I’m currently working on: [Video-Platform-MERN](https://github.com/n1klaus/Video-Platform-MERN) -->
 - 🌱 I’m currently learning through projects in:
-  - Frontend: ReactJS, QwikJS, NextJS, RemixJS
-  - Backend: NodeJS, NestJS, FastAPI, REST, GraphQL, Django, Flask
-- 💬 Ask me about: Python, Typescript, Kubernetes, Linux and more on Backend technologies
-- ⚡ Fun fact: I love burgers, strategy and Role playing board games, PC Role playing games, anime, movies, music, hiking
+  - Frontend: AstroJS, ReactJS, QwikJS, NextJS, RemixJS
+  - Backend: NodeJS, NestJS, FastAPI, REST APIs, GraphQL, Django, Flask, ASP.NET, Blazor
+  - AI: Prompt generation, Langchain, LLMs, Multi-Modal Agents, MCP Servers
+- 💬 Ask me about: Python, Typescript, JavaScript, PostgreSQL, Cloud & Containerization, Linux and more on Backend technologies
+- ⚡ Fun fact: I love burgers, strategy and role-playing board games, role-playing PC games, Christian movies, Christian music, evangelism & hiking
 
 [![n1klaus's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1klaus)](https://github.com/anuraghazra/github-readme-stats)
 
